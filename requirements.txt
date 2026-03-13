@@ -1,0 +1,5 @@
+# Core dependencies for the delivery multi-agent simulation
+# Python 3.10+ recommended
+osmnx>=1.9.3
+networkx>=3.3
+matplotlib>=3.8.0
