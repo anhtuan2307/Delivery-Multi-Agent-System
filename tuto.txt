@@ -1,8 +1,0 @@
-recommend: python version 3.12+ 
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-python -m pip install osmnx networkx matplotlib
-python simulation.py 
-python simulation.py | Out-File -Encoding utf8 simulation_log.txt # in case you want to print a txt file of simulation log for further investigation
-
-
